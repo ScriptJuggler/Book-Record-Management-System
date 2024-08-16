@@ -56,11 +56,5 @@ GET: Get all issued books with fine
     >> V: View (Frontend-reactJs)
     >> C: Controller (Brain or logic of a route)
 
-## ReactJs
-    >> SPA(Single Page Application)
-    >> Virtual DOM
-    >> Data Binding(Single Direction Flow)
-    >> Components
-        >> Class Based Components
-        >> Functional Based Components    
+  
 
